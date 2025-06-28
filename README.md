@@ -3,6 +3,7 @@
 An interactive demo of a next-gen AI virtual fitting room. **Try Before You Buy** lets users find their perfect fit, preview outfits on their own photo, and shop smarter — all while reducing returns, emissions, and waste. Fashion meets sustainability, with style.
 
 **Live Demo**: [https://try-before-you-buy-demo.netlify.app](https://try-before-you-buy-demo.netlify.app)
+<br>
 **Built by**: Akmal Hossain, Srishant Kumar
 
 **Note**: 
