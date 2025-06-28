@@ -15,7 +15,7 @@ Only this image will generate the expected preview output in this version.
 
 ## ⚙️ Tech Stack
 
-- **Framework**: React  
+- **Framework**: Next.js
 - **Language**: JavaScript  
 - **Styling**: Tailwind CSS  
 - **Deployment**: Netlify   
