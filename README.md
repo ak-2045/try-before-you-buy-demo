@@ -9,6 +9,7 @@ An interactive demo of a next-gen AI virtual fitting room. **Try Before You Buy*
 To check out the demo of the virtual try-on preview, use the sample image included in the project:
 
 **Image File**: `public/sample-image.png`
+
 Only this image will generate the expected preview output in this version.
 
 ---
